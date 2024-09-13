@@ -11,3 +11,11 @@
 ### 3. clique em criar recurso SQL do Azure
 
 ![Criando Instacias de banco de dados no azure2](https://github.com/user-attachments/assets/33a0009c-f5c7-4516-a0c1-ce73e4e7e6d5)
+
+### 4. Escolha Instância única na lista suspensa e depois selecione Criar para abrir a página Criar instância Gerenciada de SQL do Azure. Conforme imagem abaixo: 
+
+![criando Instacias de banco de dados no azure3](https://github.com/user-attachments/assets/d2f025f7-963e-46a4-86eb-ec5925f1f91a)
+
+
+
+
