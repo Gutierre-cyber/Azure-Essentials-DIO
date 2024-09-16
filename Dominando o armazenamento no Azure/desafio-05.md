@@ -7,7 +7,7 @@
 1. Entre no [Portal do Azure](https://portal.azure.com).
 2. No painel, procure por “Conta de Armazenamento” e clique em **"Criar"**.
 
-### 2. Configure uma contato de armazenamento
+### 2. Configure uma conta de armazenamento
 
 1. **Nome da Conta** Escolhar um nome único para sua contato de armazenamento e lembrando que podemos usar somente letras minúsculas.
 2. **Escolha a região** Escolha uma região mais proxima para um melhor desempenho.
