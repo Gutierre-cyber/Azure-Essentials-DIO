@@ -71,3 +71,33 @@
 
  ![image](https://github.com/user-attachments/assets/9ec4af37-d48d-49cc-86bd-4bcf6a1619cc)
   
+   - Despois de criar o Contêineres. Clique no Contêiner criado. Conforme imagem abaixo:
+
+ ![armazenamento13](https://github.com/user-attachments/assets/f3e0c455-dcda-4d41-bb16-2ce16c9c9c39)
+
+   - Depois clique em Tokens de acesso compartilhado.
+     
+ ![image](https://github.com/user-attachments/assets/c761ec27-f4bc-4737-a719-9349ea8fe59a)
+
+   - Agora configure as permissões e gere o token SAS e URL
+     
+ ![image](https://github.com/user-attachments/assets/3b7714e1-0392-4bbf-8f99-baf2f2164335)
+
+   - Agora copie a URL
+ ![image](https://github.com/user-attachments/assets/522517b1-88e4-42b4-adf3-2852cbc247ca)
+
+   - Observe que o Contêiner está vazio
+    
+ ![image](https://github.com/user-attachments/assets/d736c56a-9f92-4625-b4a3-f3267b540bd4)
+
+ ![image](https://github.com/user-attachments/assets/dca1ae07-d6a1-4ef7-949b-8273ef7627ff)
+ 
+ Execute esse comando acima no CMD.
+
+ ![image](https://github.com/user-attachments/assets/210f44a1-13b0-4a0a-9381-5ed3ea608295)
+
+ ![image](https://github.com/user-attachments/assets/21677e08-b220-42be-972b-f2e00194906c)
+
+Após excutar o comando. Agora observe que as imagens da pasta copia estão dentro do contêiner. 
+
+![image](https://github.com/user-attachments/assets/7d273a81-97fc-4ec5-8d5e-45431f2d4a86)
